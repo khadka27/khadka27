@@ -17,6 +17,16 @@ I'm a web developer passionate about building web applications using modern tech
   </a>
 </p>
 
+## 🖥️ Portfolio:
+<p align="left">
+  <a href="https://abishekkhadka27.com.np/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio 1"/>
+  </a>
+  <a href="https://abishekkhadka.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/netlify.png" alt="Portfolio 2"/>
+  </a>
+</p>
+
 ## 💻 Tech Stack:
 <p align="left">
   <a href="https://nextjs.org/" target="_blank">
@@ -67,9 +77,24 @@ I'm a web developer passionate about building web applications using modern tech
 </div>
 
 ## 🚀 Projects:
-- [Next.js Todo App](https://github.com/khadka27/todo-app) - A simple todo app built with Next.js and Tailwind CSS.
-- [Next.js Calculator](https://github.com/khadka27/calculator) - A web calculator application with Next.js.
-- [Social Media App](https://github.com/khadka27/social-media-app) - A social media application built using modern web technologies.
+<p align="left">
+  <a href="https://github.com/khadka27/todo-app" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/checklist.png" alt="Next.js Todo App"/>
+    <strong>Next.js Todo App</strong> - A simple todo app built with Next.js and Tailwind CSS.
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/khadka27/calculator" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/calculator.png" alt="Next.js Calculator"/>
+    <strong>Next.js Calculator</strong> - A web calculator application with Next.js.
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/khadka27/social-media-app" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/social-media.png" alt="Social Media App"/>
+    <strong>Social Media App</strong> - A social media application built using modern web technologies.
+  </a>
+</p>
 
-## ✨ Fun fact
+## ✨ Fun fact:
 I love exploring new technologies and applying them to real-world projects. When I'm not coding, you can find me exploring new places or playing video games.
