@@ -1,9 +1,12 @@
-# Hi there 👋
+# Hi there 👋, I'm Abishek Khadka
 
-I'm Abishek Khadka, a web developer passionate about building web applications using modern technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=khadka27&color=blueviolet&style=flat)
 
-## 🌐 Socials:
+I'm a web developer passionate about building web applications using modern technologies.
+
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-khadka-804701259/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khadka27?mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khadka_27?igsh=MTdlYmVhb3oyaHFheQ==)
 
 ## 💻 Tech Stack:
@@ -21,7 +24,18 @@ I'm Abishek Khadka, a web developer passionate about building web applications u
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Abishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=dark" alt="Abishek's GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka27&theme=dark" alt="GitHub Streak" width="49%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=dark" alt="Top Langs" width="49%"/>
+</div>
 
-## 📈 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=dark)
+## 🚀 Projects:
+- [Next.js Todo App](https://github.com/khadka27/todo-app) - A simple todo app built with Next.js and Tailwind CSS.
+- [Next.js Calculator](https://github.com/khadka27/calculator) - A web calculator application with Next.js.
+- [Social Media App](https://github.com/khadka27/social-media-app) - A social media application built using modern web technologies.
+
+## ✨ Fun fact
+I love exploring new technologies and applying them to real-world projects. When I'm not coding, you can find me exploring new places or playing video games.
