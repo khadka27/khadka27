@@ -22,7 +22,7 @@ I'm a web developer passionate about building web applications using modern tech
   <a href="https://abishekkhadka27.com.np/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio 1"/>
   </a>
-  <a href="https://abishekkhadka.netlify.app/" target="_blank">
+  <a href="https://abishekkhadka.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/netlify.png" alt="Portfolio 2"/>
   </a>
 </p>
