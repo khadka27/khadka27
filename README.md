@@ -96,5 +96,8 @@ I'm a web developer passionate about building web applications using modern tech
   </a>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## ✨ Fun fact:
 I love exploring new technologies and applying them to real-world projects. When I'm not coding, you can find me exploring new places or playing video games.
