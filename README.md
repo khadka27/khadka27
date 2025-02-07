@@ -23,7 +23,8 @@ I'm a web developer passionate about building web applications using modern tech
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio 1"/>
   </a>
    <a href="https://abhishekkhadka.vercel.app/" target="_blank">
-    <img src="https://icons8.com/icon/naDnVpQ3BNkR/portfolio" alt="Portfolio 2"/>
+    <img src="![image](https://github.com/user-attachments/assets/31224d2d-3867-402e-b387-ffdda48f1ac0)
+" alt="Portfolio 2"/>
    </a>
 </p>
 
