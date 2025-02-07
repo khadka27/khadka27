@@ -9,7 +9,7 @@ I'm a web developer passionate about creating innovative and efficient web appli
 ---
 
 ## 🌐 **Connect with Me**
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abishek-khadka-804701259/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
@@ -24,7 +24,7 @@ I'm a web developer passionate about creating innovative and efficient web appli
 ---
 
 ## 🖥️ **Portfolio**
-<p align="center">
+<p align="left">
   <a href="https://abishekkhadka27.com.np/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
   </a>
