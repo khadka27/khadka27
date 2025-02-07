@@ -78,24 +78,28 @@ I'm a web developer passionate about building web applications using modern tech
 </div>
 
 ## 🚀 Projects:
-<p align="left">
-  <a href="https://github.com/khadka27/todo-app" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/checklist.png" alt="Next.js Todo App"/>
-    <strong>Next.js Todo App</strong> - A simple todo app built with Next.js and Tailwind CSS.
-  </a>
+
+### [Next.js Todo App](https://github.com/khadka27/todo-app)
+<p>
+  <img src="https://img.icons8.com/fluent/48/000000/checklist.png" alt="Next.js Todo App" align="left" width="48px" height="48px" style="margin-right:10px;"/>
+  A simple todo app built with Next.js and Tailwind CSS.
 </p>
-<p align="left">
-  <a href="https://github.com/khadka27/calculator" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/calculator.png" alt="Next.js Calculator"/>
-    <strong>Next.js Calculator</strong> - A web calculator application with Next.js.
-  </a>
+<br/>
+
+### [Next.js Calculator](https://github.com/khadka27/calculator)
+<p>
+  <img src="https://img.icons8.com/fluent/48/000000/calculator.png" alt="Next.js Calculator" align="left" width="48px" height="48px" style="margin-right:10px;"/>
+  A web calculator application with Next.js.
 </p>
-<p align="left">
-  <a href="https://github.com/khadka27/social-media-app" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/social-media.png" alt="Social Media App"/>
-    <strong>Social Media App</strong> - A social media application built using modern web technologies.
-  </a>
+<br/>
+
+### [Social Media App](https://github.com/khadka27/social-media-app)
+<p>
+  <img src="https://img.icons8.com/fluent/48/000000/social-media.png" alt="Social Media App" align="left" width="48px" height="48px" style="margin-right:10px;"/>
+  A social media application built using modern web technologies.
 </p>
+<br/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
