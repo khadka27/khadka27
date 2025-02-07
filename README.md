@@ -22,8 +22,9 @@ I'm a web developer passionate about building web applications using modern tech
   <a href="https://abishekkhadka27.com.np/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio 1"/>
   </a>
-  <a href="https://icons8.com/icon/naDnVpQ3BNkR/portfolio" alt="Portfolio 2"/>
-  </a>
+   <a href="https://abhishekkhadka.vercel.app/" target="_blank">
+    <img src="https://icons8.com/icon/naDnVpQ3BNkR/portfolio" alt="Portfolio 2"/>
+   </a>
 </p>
 
 ## 💻 Tech Stack:
