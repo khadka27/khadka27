@@ -22,8 +22,7 @@ I'm a web developer passionate about building web applications using modern tech
   <a href="https://abishekkhadka27.com.np/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio 1"/>
   </a>
-  <a href="https://abhishekkhadka.vercel.app/" target="_blank">
-    <img src="[https://img.icons8.com/fluent/48/000000/netlify.png](https://www.google.com/imgres?q=avater%20icon&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F799%2F987%2Fpng-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Davatar%2Bicon&docid=AP8_7Ot-3OcJiM&tbnid=5NKd-8aKf4bBJM&vet=12ahUKEwiu9uCE2bGLAxUlUGwGHQ2SBqQQM3oECGYQAA..i&w=348&h=348&hcb=2&ved=2ahUKEwiu9uCE2bGLAxUlUGwGHQ2SBqQQM3oECGYQAA)" alt="Portfolio 2"/>
+  <a href="https://icons8.com/icon/naDnVpQ3BNkR/portfolio" alt="Portfolio 2"/>
   </a>
 </p>
 
