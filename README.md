@@ -51,7 +51,10 @@ I'm a web developer passionate about creating innovative and efficient web appli
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/ios/50/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/websocket.png" alt="WebSocket"/>
+  <img src="https://img.icons8.com/color/48/000000/prisma-orm.png" alt="Prisma ORM"/>
 </p>
+
 
 ---
 
