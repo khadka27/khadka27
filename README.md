@@ -4,6 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek%20Khadka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated Typing SVG -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Products+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 <br/>
@@ -16,6 +17,7 @@
 <br/><br/>
 
 <!-- Social Links with Animation -->
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/khadka27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
@@ -37,24 +39,24 @@
 
 ```typescript
 const abishek = {
-    location: "🌏 Nepal",
-    role: "Full-Stack Developer",
-    code: ["TypeScript", "JavaScript", "C#", "Python"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["Next.js", "React"],
-            styling: ["Tailwind CSS", "CSS3", "SCSS"],
-            tools: ["Webpack", "Vite"]
-        },
-        backEnd: {
-            runtime: ["Node.js", ".NET"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
-        },
-        devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
-        tools: ["VS Code", "Postman", "Figma"]
+  location: "🌏 Nepal",
+  role: "Full-Stack Developer",
+  code: ["TypeScript", "JavaScript", "C#", "Python"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["Next.js", "React"],
+      styling: ["Tailwind CSS", "CSS3", "SCSS"],
+      tools: ["Webpack", "Vite"],
     },
-    currentFocus: "Building scalable web applications 🚀",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    backEnd: {
+      runtime: ["Node.js", ".NET"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    },
+    devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
+    tools: ["VS Code", "Postman", "Figma"],
+  },
+  currentFocus: "Building scalable web applications 🚀",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄",
 };
 ```
 
@@ -65,15 +67,19 @@ const abishek = {
 <div align="center">
 
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=ts,js,cs,python,html,css&theme=dark&perline=6" />
 
 ### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,materialui,redux&theme=dark&perline=6" />
 
 ### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,postgres,mysql&theme=dark&perline=6" />
 
 ### 🛠️ Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman,figma,npm&theme=dark&perline=8" />
 
 </div>
@@ -89,6 +95,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 💰 Personal Finance Visualizer
+
 <a href="https://github.com/khadka27/personal-finance-visualizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=personal-finance-visualizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -96,6 +103,7 @@ const abishek = {
 **🚀 Tech:** Next.js • TypeScript • MongoDB • Tailwind
 
 **✨ Features:**
+
 - 📊 Interactive dashboards
 - 💳 Transaction management
 - 📁 Budget tracking
@@ -105,6 +113,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 📥 Easy Downloader
+
 <a href="https://github.com/khadka27/easy-downloader">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=easy-downloader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -112,6 +121,7 @@ const abishek = {
 **🚀 Tech:** Next.js • TypeScript
 
 **✨ Features:**
+
 - 📱 Multi-platform support
 - ⚡ Fast downloads
 - 🎯 Simple interface
@@ -124,6 +134,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 🖼️ Background Remover
+
 <a href="https://github.com/khadka27/bg-remover">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=bg-remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -131,6 +142,7 @@ const abishek = {
 **🚀 Tech:** TypeScript
 
 **✨ Features:**
+
 - 🎨 AI-powered removal
 - 🖱️ Drag & drop
 - 💾 Quick processing
@@ -139,6 +151,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 🎬 MovieFlix
+
 <a href="https://github.com/khadka27/movieflix">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=movieflix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -146,6 +159,7 @@ const abishek = {
 **🚀 Tech:** TypeScript
 
 **✨ Features:**
+
 - 🎥 Movie discovery
 - 🔍 Advanced search
 - 📱 Responsive design
@@ -157,6 +171,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 💸 Expense Tracker App
+
 <a href="https://github.com/khadka27/ExpenseTrackerApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=ExpenseTrackerApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -164,6 +179,7 @@ const abishek = {
 **🚀 Tech:** C# • .NET
 
 **✨ Features:**
+
 - 💰 Expense tracking
 - 📊 Financial reports
 - 🗂️ Categories
@@ -172,6 +188,7 @@ const abishek = {
 <td width="50%" valign="top">
 
 ### 📧 My Temp Mail
+
 <a href="https://github.com/khadka27/my-temp-mail">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=my-temp-mail&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
@@ -179,6 +196,7 @@ const abishek = {
 **🚀 Tech:** TypeScript
 
 **✨ Features:**
+
 - 📬 Temp emails
 - 🔒 Privacy-focused
 - ⚡ Real-time updates
@@ -216,6 +234,16 @@ const abishek = {
 ### 📊 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadka27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/khadka27/khadka27/blob/output/github-snake.svg)
 
 </div>
 
