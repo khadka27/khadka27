@@ -1,184 +1,330 @@
-# <div align="center">👨‍💻 Abishek Khadka | Full-Stack Developer</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6D41A1&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;MongoDB+%7C+MySQL+%7C+Firebase+%7C+Prisma" alt="Typing SVG" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=khadka27&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/khadka27?style=for-the-badge&logo=github&color=6D41A1)](https://github.com/khadka27?tab=followers)
-  [![Website](https://img.shields.io/website?style=for-the-badge&logo=vercel&logoColor=white&up_message=online&url=https%3A%2F%2Fabishekkhadka27.com.np&color=6D41A1)](https://abishekkhadka27.com.np)
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek%20Khadka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Products+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-00D9FF?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lives-Nepal-FF0000?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Social Links with Animation -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/khadka27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+<!-- Animated Code GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-> I'm a passionate web developer focused on creating innovative and efficient applications using modern technologies. With expertise in both frontend and backend development, I build seamless digital experiences that blend form and function.
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-- 🌱 Currently expanding my knowledge in **Web3 technologies**
-- 👨‍💻 Check out my portfolio: [abishekkhadka27.com.np](https://abishekkhadka27.com.np)
-- 💬 Ask me about **React, Next.js, JavaScript, and Full-Stack Development**
-- ⚡ Fun fact: When not coding, I explore new places, play video games, and engage in tech discussions
+```typescript
+const abishek = {
+    location: "🌏 Nepal",
+    role: "Full-Stack Developer",
+    code: ["TypeScript", "JavaScript", "C#", "Python"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["Next.js", "React"],
+            styling: ["Tailwind CSS", "CSS3", "SCSS"],
+            tools: ["Webpack", "Vite"]
+        },
+        backEnd: {
+            runtime: ["Node.js", ".NET"],
+            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+        },
+        devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building scalable web applications 🚀",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack 
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack & Tools
 
 <div align="center">
-  
-  <!-- Frontend -->
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  
-  <!-- Styling -->
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
-  <!-- Backend & Databases -->
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-  
-  <!-- Tools -->
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,cs,python,html,css&theme=dark&perline=6" />
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,materialui,redux&theme=dark&perline=6" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,postgres,mysql&theme=dark&perline=6" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman,figma,npm&theme=dark&perline=8" />
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🌟 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Featured Projects
 
 <div align="center">
+
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Social Media App</h3>
-      <div align="center">  
-        <a href="https://github.com/khadka27/social-media-app" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=white">
-        </a>
-      </div>
-      <p align="center">
-        A feature-rich social media platform built with React, Node.js, and MongoDB. Includes real-time messaging, post sharing, and user interactions.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Next.js Todo App</h3>
-      <div align="center">  
-        <a href="https://github.com/khadka27/todo-app" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=white">
-        </a>
-      </div>
-      <p align="center">
-        A sleek and responsive todo application built with Next.js and Tailwind CSS. Features drag-and-drop, dark mode, and localstorage persistence.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Next.js Calculator</h3>
-      <div align="center">  
-        <a href="https://github.com/khadka27/calculator" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=white">
-        </a>
-      </div>
-      <p align="center">
-        A modern calculator web app with basic and scientific functions. Built with Next.js and styled with CSS modules.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
-      <div align="center">  
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/DEMO-39FF14?style=for-the-badge&logoColor=white">
-        </a>
-      </div>
-      <p align="center">
-        Full-featured e-commerce solution with product management, cart functionality, and secure payment processing.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Personal Finance Visualizer
+<a href="https://github.com/khadka27/personal-finance-visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=personal-finance-visualizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** Next.js • TypeScript • MongoDB • Tailwind
+
+**✨ Features:**
+- 📊 Interactive dashboards
+- 💳 Transaction management
+- 📁 Budget tracking
+- 🎨 Beautiful UI/UX
+
+</td>
+<td width="50%" valign="top">
+
+### 📥 Easy Downloader
+<a href="https://github.com/khadka27/easy-downloader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=easy-downloader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** Next.js • TypeScript
+
+**✨ Features:**
+- 📱 Multi-platform support
+- ⚡ Fast downloads
+- 🎯 Simple interface
+- 🔥 Instagram, Twitter, TikTok
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ Background Remover
+<a href="https://github.com/khadka27/bg-remover">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=bg-remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** TypeScript
+
+**✨ Features:**
+- 🎨 AI-powered removal
+- 🖱️ Drag & drop
+- 💾 Quick processing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 MovieFlix
+<a href="https://github.com/khadka27/movieflix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=movieflix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** TypeScript
+
+**✨ Features:**
+- 🎥 Movie discovery
+- 🔍 Advanced search
+- 📱 Responsive design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Expense Tracker App
+<a href="https://github.com/khadka27/ExpenseTrackerApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=ExpenseTrackerApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** C# • .NET
+
+**✨ Features:**
+- 💰 Expense tracking
+- 📊 Financial reports
+- 🗂️ Categories
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 My Temp Mail
+<a href="https://github.com/khadka27/my-temp-mail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=my-temp-mail&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** TypeScript
+
+**✨ Features:**
+- 📬 Temp emails
+- 🔒 Privacy-focused
+- ⚡ Real-time updates
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<a href="https://github.com/khadka27?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_50+_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e8f9-3f8f-4502-b6d0-8d1c6c1f77f9.png" width="30" /> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadka27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@khadka27&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
+
+</div>
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khadka27/khadka27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khadka27/khadka27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khadka27/khadka27/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b041-3d1a0c6db7c5.png" width="30" /> GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khadka27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c7898-83e1-4f47-8c98-f2af5e243bdb.png" width="30" /> Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadka27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d64d84d.png" width="30" /> Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/khadka27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Contact GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />
+
+<br/>
+
+### 💬 Let's build something amazing together!
+
+**📧 Email:** your.email@example.com  
+**🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+**💼 Open for:** Freelance Projects | Collaboration | Full-time Opportunities
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122020-c5e13d82-c1c0-40b9-b87c-4d5e80c49f3f.png" width="30" /> Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b041-3d1a0c6db7c5.png" width="25" /> Support My Work
+
+<div align="center">
+
+If you like my projects and want to support my work:
+
+<a href="https://www.buymeacoffee.com/your-username">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/your-username">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐ **Star my repositories if you find them useful!** ⭐
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadka27&theme=radical&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=khadka27&theme=radical&row=1&column=6&margin-w=15&margin-h=15" width="49%" alt="Trophies" />
-</div>
+### 🎯 "Talk is cheap. Show me the code." - Linus Torvalds
 
----
+<br/>
 
-## 🔥 Recent Activity
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<!--START_SECTION:activity-->
-1. 🚀 Pushed commits to `khadka27/social-media-app`
-2. 🎉 Merged PR in `khadka27/todo-app`
-3. 💬 Commented on issue in `khadka27/calculator`
-<!--END_SECTION:activity-->
+<br/><br/>
 
----
+![Visitor Count](https://profile-counter.glitch.me/khadka27/count.svg)
 
-## 🌐 Connect With Me
+<br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/khadka27/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/khadka27?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/khadka_27?igsh=MTdlYmVhb3oyaHFheQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+**⚡ Thanks for visiting! Let's connect and build something extraordinary! ⚡**
 
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
-
-<!-- Keywords: Abishek Khadka, Web Developer, Full Stack Developer, React Developer, Next.js Developer, JavaScript Developer, TypeScript, MongoDB, MySQL, Firebase, Prisma, Nepal Developer -->
