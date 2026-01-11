@@ -1,209 +1,319 @@
-<div align="center">
-  
-# 👋 Hi, I'm Abishek Khadka
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek%20Khadka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 Full-Stack Developer | TypeScript Enthusiast | Problem Solver
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Products+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
-[![GitHub followers](https://img.shields.io/github/followers/khadka27?label=Follow&style=social)](https://github.com/khadka27)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+<br/>
+
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-00D9FF?style=for-the-badge&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lives-Nepal-FF0000?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Social Links with Animation -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/khadka27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+<!-- Animated Code GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-I'm a passionate developer who loves building practical and user-friendly applications. I specialize in modern web technologies and enjoy creating solutions that solve real-world problems.  My focus is on clean code, great UX, and scalable architecture.
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-- 🔭 Currently working on full-stack web applications
-- 🌱 Learning advanced system design and cloud architecture
-- 💡 Passionate about TypeScript, Next.js, and modern web development
-- 🎯 Goal:  Building impactful products that make a difference
+```typescript
+const abishek = {
+    location: "🌏 Nepal",
+    role: "Full-Stack Developer",
+    code: ["TypeScript", "JavaScript", "C#", "Python"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["Next.js", "React"],
+            styling: ["Tailwind CSS", "CSS3", "SCSS"],
+            tools: ["Webpack", "Vite"]
+        },
+        backEnd:  {
+            runtime: ["Node.js", ". NET"],
+            databases: ["MongoDB", "PostgreSQL", "MySQL"]
+        },
+        devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+    currentFocus: "Building scalable web applications 🚀",
+    funFact: "I debug with console.log() and I'm not ashamed!  😄"
+};
+```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🛠️ Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack & Tools
 
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
 
-### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=ts,js,cs,python,html,css&theme=dark&perline=6" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933? style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![. NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=. net&logoColor=white)
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,materialui,redux&theme=dark&perline=6" />
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,postgres,mysql&theme=dark&perline=6" />
 
----
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman,figma,npm&theme=dark&perline=8" />
 
-## 🌟 Featured Projects
+</div>
 
-### 💰 [Personal Finance Visualizer](https://github.com/khadka27/personal-finance-visualizer)
-A comprehensive personal finance tracking application with rich features and beautiful UI. 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-**Tech Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS  
-**Features:**
-- 📊 Interactive dashboards and data visualizations
-- 💳 Complete transaction management (CRUD operations)
-- 📁 Category organization and budgeting tools
-- 🎨 Modern, responsive design
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Featured Projects
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/khadka27/personal-finance-visualizer)
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📥 [Easy Downloader (MediaWave)](https://github.com/khadka27/easy-downloader)
-A powerful web application to download images and videos from popular social media platforms.
+### 💰 Personal Finance Visualizer
+<a href="https://github.com/khadka27/personal-finance-visualizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=personal-finance-visualizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-**Tech Stack:** Next.js, TypeScript  
-**Features:**
-- 📱 Support for Instagram, Twitter, TikTok, and YouTube
-- ⚡ Fast and efficient downloading
-- 🎯 Simple, user-friendly interface
+**🚀 Tech:** Next.js • TypeScript • MongoDB • Tailwind
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/khadka27/easy-downloader)
+**✨ Features:**
+- 📊 Interactive dashboards
+- 💳 Transaction management
+- 📁 Budget tracking
+- 🎨 Beautiful UI/UX
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🖼️ [Background Remover](https://github.com/khadka27/bg-remover)
-Smart tool for removing backgrounds from images with ease.
+### 📥 Easy Downloader
+<a href="https://github.com/khadka27/easy-downloader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=easy-downloader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-**Tech Stack:** TypeScript  
-**Features:**
-- 🎨 AI-powered background removal
-- 🖱️ Simple drag-and-drop interface
-- 💾 Quick processing and download
+**🚀 Tech:** Next.js • TypeScript
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/khadka27/bg-remover)
+**✨ Features:**
+- 📱 Multi-platform support
+- ⚡ Fast downloads
+- 🎯 Simple interface
+- 🔥 Instagram, Twitter, TikTok
 
----
+</td>
+</tr>
 
-### 🎬 [MovieFlix](https://github.com/khadka27/movieflix)
-A movie streaming and discovery platform for film enthusiasts.
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** TypeScript  
-**Features:**
-- 🎥 Browse and discover movies
-- 🔍 Advanced search and filtering
+### 🖼️ Background Remover
+<a href="https://github.com/khadka27/bg-remover">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=bg-remover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** TypeScript
+
+**✨ Features:**
+- 🎨 AI-powered removal
+- 🖱️ Drag & drop
+- 💾 Quick processing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 MovieFlix
+<a href="https://github.com/khadka27/movieflix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/? username=khadka27&repo=movieflix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
+**🚀 Tech:** TypeScript
+
+**✨ Features:**
+- 🎥 Movie discovery
+- 🔍 Advanced search
 - 📱 Responsive design
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/khadka27/movieflix)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 💸 [Expense Tracker App](https://github.com/khadka27/ExpenseTrackerApp)
-Desktop application for tracking personal expenses efficiently.
+### 💸 Expense Tracker App
+<a href="https://github.com/khadka27/ExpenseTrackerApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=ExpenseTrackerApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-**Tech Stack:** C#, . NET  
-**Features:**
-- 💰 Track income and expenses
-- 📊 Generate financial reports
-- 🗂️ Category-based organization
+**🚀 Tech:** C# • . NET
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717? style=for-the-badge&logo=github)](https://github.com/khadka27/ExpenseTrackerApp)
+**✨ Features:**
+- 💰 Expense tracking
+- 📊 Financial reports
+- 🗂️ Categories
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📧 [My Temp Mail](https://github.com/khadka27/my-temp-mail)
-Temporary email service for privacy-conscious users.
+### 📧 My Temp Mail
+<a href="https://github.com/khadka27/my-temp-mail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=my-temp-mail&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-**Tech Stack:** TypeScript  
-**Features:**
-- 📬 Generate temporary email addresses
-- 🔒 Privacy-focused approach
-- ⚡ Real-time email updates
+**🚀 Tech:** TypeScript
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/khadka27/my-temp-mail)
+**✨ Features:**
+- 📬 Temp emails
+- 🔒 Privacy-focused
+- ⚡ Real-time updates
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<br/>
+
+<a href="https://github.com/khadka27? tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_50+_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e8f9-3f8f-4502-b6d0-8d1c6c1f77f9.png" width="30" /> GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadka27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=khadka27&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/? user=khadka27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadka27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b041-3d1a0c6db7c5.png" width="30" /> GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khadka27&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d64d84d.png" width="30" /> Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/khadka27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2? style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Contact GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" />
+
+<br/>
+
+### 💬 Let's build something amazing together!
+
+**📧 Email:** your.email@example.com  
+**🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+**💼 Open for:** Freelance Projects | Collaboration | Full-time Opportunities
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122020-c5e13d82-c1c0-40b9-b87c-4d5e80c49f3f.png" width="30" /> Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b041-3d1a0c6db7c5.png" width="25" /> Support My Work
+
+<div align="center">
+
+If you like my projects and want to support my work: 
+
+<a href="https://www.buymeacoffee.com/your-username">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/your-username">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐ **Star my repositories if you find them useful!** ⭐
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=khadka27&theme=radical&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khadka27&theme=react-dark&hide_border=true)](https://github.com/khadka27)
-
-</div>
-
----
-
-## 💼 More Projects
-
-I have **50+ repositories** covering various domains including:
-
-- 🌐 Web Development (E-commerce, Social Media Platforms)
-- 🧮 Utilities (Calculators, Todo Apps, Converters)
-- 🎨 Creative Tools (Image Processing, Media Downloaders)
-- 📱 Full-Stack Applications (Finance, Entertainment)
-
-[**View All Repositories →**](https://github.com/khadka27?tab=repositories)
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on exciting projects or discussing new ideas! 
-
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your-handle](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <div align="center">
 
-### 💬 "Code is like humor.  When you have to explain it, it's bad." – Cory House
+### 🎯 "Talk is cheap. Show me the code." - Linus Torvalds
 
-⭐️ From [khadka27](https://github.com/khadka27) | Thanks for visiting! 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/><br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/khadka27/count.svg)
+
+<br/>
+
+**⚡ Thanks for visiting!  Let's connect and build something extraordinary!  ⚡**
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
