@@ -1,8 +1,10 @@
+<div align="center">
+  
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek%20Khadka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abishek%20Khadka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Products+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;TypeScript+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Products+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -44,15 +46,15 @@ const abishek = {
             styling: ["Tailwind CSS", "CSS3", "SCSS"],
             tools: ["Webpack", "Vite"]
         },
-        backEnd:  {
-            runtime: ["Node.js", ". NET"],
+        backEnd: {
+            runtime: ["Node.js", ".NET"],
             databases: ["MongoDB", "PostgreSQL", "MySQL"]
         },
         devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
         tools: ["VS Code", "Postman", "Figma"]
     },
     currentFocus: "Building scalable web applications 🚀",
-    funFact: "I debug with console.log() and I'm not ashamed!  😄"
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
@@ -138,7 +140,7 @@ const abishek = {
 
 ### 🎬 MovieFlix
 <a href="https://github.com/khadka27/movieflix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/? username=khadka27&repo=movieflix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=movieflix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
 
 **🚀 Tech:** TypeScript
@@ -159,7 +161,7 @@ const abishek = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khadka27&repo=ExpenseTrackerApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
 </a>
 
-**🚀 Tech:** C# • . NET
+**🚀 Tech:** C# • .NET
 
 **✨ Features:**
 - 💰 Expense tracking
@@ -187,7 +189,7 @@ const abishek = {
 
 <br/>
 
-<a href="https://github.com/khadka27? tab=repositories">
+<a href="https://github.com/khadka27?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_50+_Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -203,7 +205,7 @@ const abishek = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadka27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/? user=khadka27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khadka27&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF"/>
 
 </div>
 
@@ -217,7 +219,7 @@ const abishek = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b041-3d1a0c6db7c5.png" width="30" /> GitHub Trophies
 
@@ -227,7 +229,7 @@ const abishek = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d64d84d.png" width="30" /> Connect With Me
 
@@ -237,7 +239,7 @@ const abishek = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2? style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/your-handle">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -280,7 +282,7 @@ const abishek = {
 
 <div align="center">
 
-If you like my projects and want to support my work: 
+If you like my projects and want to support my work:
 
 <a href="https://www.buymeacoffee.com/your-username">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
@@ -311,7 +313,7 @@ If you like my projects and want to support my work:
 
 <br/>
 
-**⚡ Thanks for visiting!  Let's connect and build something extraordinary!  ⚡**
+**⚡ Thanks for visiting! Let's connect and build something extraordinary! ⚡**
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
