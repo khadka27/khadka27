@@ -266,16 +266,16 @@ const abishek = {
 <a href="https://github.com/khadka27">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://linkedin.com/in/khadka27">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/your-handle">
+<a href="https://twitter.com/khadka_27">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.abishekkhadka90@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-portfolio.com">
+<a href="https://abishekkhadka27.com.np">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -288,8 +288,8 @@ const abishek = {
 
 ### 💬 Let's build something amazing together!
 
-**📧 Email:** your.email@example.com  
-**🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+**📧 Email:** abishekkhadka90@gmail.com 
+**🌐 Portfolio:** [khadka27](https://abishekkhadka27.com.np)  
 **💼 Open for:** Freelance Projects | Collaboration | Full-time Opportunities
 
 </div>
@@ -312,10 +312,10 @@ const abishek = {
 
 If you like my projects and want to support my work:
 
-<a href="https://www.buymeacoffee.com/your-username">
+<a href="https://www.buymeacoffee.com/khadka27">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
-<a href="https://ko-fi.com/your-username">
+<a href="https://ko-fi.com/khadka27">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
 
